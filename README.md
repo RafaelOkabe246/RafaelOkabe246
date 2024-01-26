@@ -1,4 +1,4 @@
-### Hi there 👋
+I started studying programming in 2019, and since then I have participated in several Games Jams, including the 2023 BGS Game Jam in which my team and I came in first place. Every year I am evolving my programming, art and writing skills. The impossible is what has not yet been overcome.
 
 <!--
 **RafaelOkabe246/RafaelOkabe246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
